@@ -1,15 +1,12 @@
 
 # Sales Data Analysis 
 
-In this project we have done a Sales Data Analysis and built a Dashboard to help a Business get a picture of their sales performance and understand their customers.
+In this project I have done a Sales Data Analysis and built a Dashboard to help a Business get a picture of their sales performance and understand their customers.
 
 
 ## Project Goal
-
-1) To help a business track the Sales of their products 
-2) To help them get insights about their business in various regions. 
+1) The goal of this project is to help a business track the sales of their products and help them get insights about their business and customers in various regions. 
 2) To build a dashboard to
-    
     * Track revenue numbers and Trends.
     * Track revenue breakdown by regions, products and markets.
     
