@@ -10,9 +10,8 @@ In this project we have done a Sales Data Analysis and built a Dashboard to help
 2) To help them get insights about their business in various regions. 
 2) To build a dashboard to
     
-    i) Track revenue numbers and Trends.
-    
-    ii) Track revenue breakdown by regions, products and markets.
+    * Track revenue numbers and Trends.
+    * Track revenue breakdown by regions, products and markets.
     
 ## Data
 
