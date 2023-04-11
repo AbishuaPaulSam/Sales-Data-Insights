@@ -32,6 +32,13 @@ The Data used in this project was available as Excel files, which were provided 
 **Matplotlib:** import matplotlib.pyplot as plt
 
 
+## 🔗 Links to My Other Projects
+
+[Cricket World Cup Data Analysis](https://github.com/AbishuaPaulSam/Cricket-World-Cup-Data-Analysis)
+
+[RFM Analysis](https://github.com/AbishuaPaulSam/RFM-Analysis)
+
+[HR Analysis](https://github.com/AbishuaPaulSam/HR-Analytics)
 
 
 ## 🔗 Links
